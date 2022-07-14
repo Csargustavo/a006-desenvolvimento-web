@@ -1,0 +1,1 @@
+function alertar() {alert ("pagina aberta com sucesso")}
