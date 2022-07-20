@@ -1,1 +1,5 @@
-function alertar() {alert ("pagina aberta com sucesso")}
+function alertar(){
+    alert('oi')
+}
+
+//comentario
